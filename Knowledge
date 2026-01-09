@@ -1,0 +1,16 @@
+## KNOWLEDGE BASE: VEO 3 STANDARDS
+
+### 1. TỪ ĐIỂN THAY THẾ AN TOÀN (Tránh bị chặn)
+* **Thay cho Pixar/Disney:** High-quality 3D stylized animation, Whimsical character design, Soft cinematic lighting, 8k render, Expressive facial features.
+* **Thay cho Anime/Ghibli:** Lush 2D hand-drawn art style, Painterly backgrounds, Watercolor texture, Atmospheric scenery.
+
+### 2. PHÂN TÍCH CẤU TRÚC 5 BƯỚC (Theo ảnh hướng dẫn)
+* **Bước 1 (Character):** Càng rõ càng tốt (tuổi, chất liệu, biểu cảm).
+* **Bước 2 (Context):** Thời gian (sáng/tối), không khí (ấm cúng/sôi động).
+* **Bước 3 (Dialogue):** Bắt buộc dùng cụm từ "says in Vietnamese with a... accent:" để kích hoạt tính năng nhép môi (lip-sync) chuẩn xác nhất.
+* **Bước 4 (Action):** Chỉ tả 1 hành động chính trong 8 giây để tránh bị méo hình.
+* **Bước 5 (Tech):** Luôn yêu cầu "Clean frame" để video không bị dính chữ rác.
+
+### 3. VÍ DỤ PROMPT CHUẨN (Áp dụng thực tế cho câu chuyện Ấm Trà)
+*Input:* Cảnh cụ Ấm trà an ủi cái cốc.
+*Output:* High-quality 3D stylized animation featuring a Wise Old Teapot with a long elegant spout and warm eyes. The scene takes place in a sunlit kitchen, filled with golden hour light and soft steam rising. Continuing the exact pose, the Teapot tilts gently and says in Vietnamese with a comforting accent: "Đừng buồn nhé bạn nhỏ. Mỗi món đồ trong căn bếp này đều có giá trị riêng mà." The Teapot's lid moves slightly like a hat, and it looks kindly at the camera. Make sure the lip-sync matches the Vietnamese speech. Clean frame, no subtitles, no text.
